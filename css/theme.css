@@ -181,7 +181,7 @@ body *:focus {
   margin-top: -20px;
   -webkit-animation: fa-spin 2s infinite linear;
   animation: fa-spin 2s infinite linear;
-  color: #00486c;
+  color: #ce0b48;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
   -webkit-transition: all 0.3s;
@@ -345,7 +345,7 @@ header {
 }
 
 header.sticked {
-  background-color: #00486c;
+  background-color: #ce0b48;
   border-color: transparent;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -359,7 +359,7 @@ header.sticked {
     -moz-border-radius: 100%;
     -webkit-border-radius: 100%;
     border-radius: 100%;
-    background-color: #00486c;
+    background-color: #ce0b48;
     width: 90px;
     height: 93px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -373,7 +373,7 @@ header.sticked {
 @media (max-width: 767px) {
   header.sticked {
     position: absolute;
-    background-color: #00486c;
+    background-color: #ce0b48;
   }
 }
 
@@ -685,7 +685,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
     transition: all 0.3s;
   }
   nav.navigation-main .navigation-block.open {
-    background-color: #00486c;
+    background-color: #ce0b48;
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
@@ -721,7 +721,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
     padding-left: 15px;
   }
   nav.navigation-main .navigation-block ul li.expanded > a {
-    background-color: #002639;
+    background-color: #610824;
   }
   nav.navigation-main .navigation-block ul li.expanded .open-dropdown i {
     -moz-transform: rotate(180deg);
@@ -993,11 +993,11 @@ nav.navigation-main .navigation-block ul li > ul li a {
 }
 
 .btn.btn-main {
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .btn.btn-main:hover {
-  background-color: #002639;
+  background-color: #610824;
 }
 
 .btn.btn-main, .btn.btn-main:hover, .btn.btn-main:focus, .btn.btn-main:active {
@@ -1029,7 +1029,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
 }
 
 .btn.btn-buy {
-  background-color: #00486c;
+  background-color: #ce0b48;
   color: white;
   position: absolute;
   padding: 0;
@@ -1125,11 +1125,11 @@ nav.navigation-main .navigation-block ul li > ul li a {
 
 .breadcrumb > li.active,
 .breadcrumb > li.active a {
-  color: #00486c;
+  color: #ce0b48;
 }
 
 .breadcrumb > li a.active {
-  color: #00486c;
+  color: #ce0b48;
 }
 
 /*  
@@ -1154,7 +1154,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
 }
 
 .checkbox label a:hover {
-  color: #00486c;
+  color: #ce0b48;
 }
 
 .checkbox label small {
@@ -1176,7 +1176,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
   display: inline-block;
   height: 25px;
   width: 25px;
-  border: 1px solid #00486c;
+  border: 1px solid #ce0b48;
   padding: 0;
   left: 0;
   top: 18px;
@@ -1196,7 +1196,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
 
 .checkbox input[type="checkbox"]:checked + label:before,
 .checkbox input[type="radio"]:checked + label:before {
-  color: #00486c;
+  color: #ce0b48;
   border-color: transparent;
   text-align: center;
   -moz-transform: scale(1.2);
@@ -1482,7 +1482,7 @@ section {
 }
 
 .image-blocks.image-blocks-theme .blocks .item {
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .image-blocks .blocks {
@@ -1723,7 +1723,7 @@ section {
 .scroll-top {
   visibility: hidden;
   padding: 18px 20px;
-  background-color: #002639;
+  background-color: #610824;
   color: white;
   position: fixed;
   bottom: 15px;
@@ -1831,7 +1831,7 @@ section {
 }
 
 .stretcher-wrapper .stretcher .stretcher-item.more {
-  background-color: #002639;
+  background-color: #610824;
   position: relative;
   height: 100px;
 }
@@ -2058,7 +2058,7 @@ section {
   padding-top: 200px;
   padding-bottom: 200px;
   color: white;
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .banner .btn {
@@ -2166,7 +2166,7 @@ section {
 
 .contact .contact-block .contact-info figure .icon {
   font-size: 50px;
-  color: #00486c;
+  color: #ce0b48;
 }
 
 .contact .contact-block .contact-form {
@@ -2324,7 +2324,7 @@ section {
 .tabsy-wrapper .tabsy .tabsy-links figure figcaption .date {
   font-size: 75%;
   display: block;
-  color: #00486c;
+  color: #ce0b48;
 }
 
 .tabsy-wrapper .tabsy .tabsy-links figure figcaption .title {
@@ -2555,7 +2555,7 @@ section {
 .quotes .quote .more .rating .icon {
   width: 16px;
   display: inline-block;
-  color: #00486c;
+  color: #ce0b48;
 }
 
 .quotes .owl-theme .owl-controls .owl-pagination {
@@ -2610,7 +2610,7 @@ section {
 }
 
 .team article .details {
-  background-color: #00486c;
+  background-color: #ce0b48;
   color: white;
   text-align: center;
   position: absolute;
@@ -2680,7 +2680,7 @@ section {
   -o-transform: scale(1.8);
   -webkit-transform: scale(1.8);
   transform: scale(1.8);
-  background-color: #002639;
+  background-color: #610824;
 }
 
 .facilities .facilities-wrapper figure:hover .title {
@@ -2700,7 +2700,7 @@ section {
 }
 
 .facilities .facilities-wrapper figure .hotelicon:after {
-  background-color: #00486c;
+  background-color: #ce0b48;
   content: "";
   left: 0;
   top: 0;
@@ -2850,7 +2850,7 @@ section {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #00486c;
+  background-color: #ce0b48;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   -webkit-transition: 0.3s;
@@ -2959,7 +2959,7 @@ section {
 
 @media (max-width: 991px) {
   .booking.booking-inner .booking-wrapper {
-    background-color: #00486c;
+    background-color: #ce0b48;
     color: white;
   }
 }
@@ -2971,7 +2971,7 @@ section {
 .booking.booking-default-theme {
   padding-bottom: 0;
   color: white;
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .booking.booking-default-theme .section-header .title {
@@ -3112,7 +3112,7 @@ section {
 }
 
 .booking .booking-wrapper .guests .guest-list li.header, .booking .booking-wrapper .guests .guest-list li.footer {
-  background-color: #00486c;
+  background-color: #ce0b48;
   color: white;
   padding: 20px 15px;
 }
@@ -3191,9 +3191,9 @@ section {
 }
 
 .booking .booking-wrapper .guests .guest-list li .qty-btn:hover {
-  background-color: #00486c;
+  background-color: #ce0b48;
   color: white;
-  border-color: #00486c;
+  border-color: #ce0b48;
 }
 
 @media (min-width: 768px) {
@@ -3306,11 +3306,11 @@ section {
 }
 
 .ui-datepicker .ui-datepicker-calendar .ui-state-active {
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .ui-datepicker .ui-datepicker-title {
-  background-color: #00486c;
+  background-color: #ce0b48;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -3345,7 +3345,7 @@ section {
   height: 50%;
   left: 0;
   bottom: 0;
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .rooms.rooms-category {
@@ -3698,7 +3698,7 @@ section {
     height: 50%;
     left: 0;
     bottom: 0;
-    background-color: #00486c;
+    background-color: #ce0b48;
   }
 }
 
@@ -3774,7 +3774,7 @@ section {
 }
 
 .blog aside .box ul li.active a {
-  color: #00486c;
+  color: #ce0b48;
   opacity: 0.8;
 }
 
@@ -3854,7 +3854,7 @@ section {
 .blog aside .box.box-tags ul li a {
   padding: 7.5px;
   border: 0;
-  background-color: #00486c;
+  background-color: #ce0b48;
   color: white;
   font-size: 13px;
   -moz-border-radius: 2px;
@@ -3863,7 +3863,7 @@ section {
 }
 
 .blog aside .box.box-tags ul li a:hover {
-  background-color: #002639;
+  background-color: #610824;
 }
 
 @media (min-width: 768px) {
@@ -3921,7 +3921,7 @@ section {
   width: 65px;
   height: 65px;
   display: block;
-  background-color: #00486c;
+  background-color: #ce0b48;
   font-size: 65%;
   color: #515561;
   -moz-border-radius: 100%;
@@ -4123,7 +4123,7 @@ section {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #00486c;
+  background-color: #ce0b48;
   opacity: 0;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -4189,7 +4189,7 @@ section {
   background-size: 60% auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 @media print {
@@ -4229,7 +4229,7 @@ section {
 }
 
 .subscribe .box:after {
-  background-color: #00486c;
+  background-color: #ce0b48;
   -moz-transform: translate(-50%, -50%) rotate(45deg);
   -ms-transform: translate(-50%, -50%) rotate(45deg);
   -o-transform: translate(-50%, -50%) rotate(45deg);
@@ -4394,7 +4394,7 @@ section {
 }
 
 .checkout .payment .payment-header > div .fa {
-  color: #00486c;
+  color: #ce0b48;
   font-size: 30px;
 }
 
@@ -4884,7 +4884,7 @@ section {
 }
 
 .comments .fa.active {
-  color: #00486c;
+  color: #ce0b48;
 }
 
 .comments h2 .rating {
@@ -5172,7 +5172,7 @@ section {
 }
 
 .shortcodes article h1:first-child + hr {
-  border-color: #00486c;
+  border-color: #ce0b48;
 }
 
 .shortcodes article .icons figure {
@@ -5255,7 +5255,7 @@ section {
 
 .shortcodes .bs-glyphicons li:hover {
   color: #fff;
-  background-color: #00486c;
+  background-color: #ce0b48;
 }
 
 .shortcodes #glyphs.expanded .bs-glyphicons {
@@ -5284,7 +5284,7 @@ section {
 */
 footer {
   padding: 40px 0;
-  background-color: #002639;
+  background-color: #610824;
   color: white;
 }
 
@@ -5335,6 +5335,147 @@ footer .footer-social .copyright {
   text-align: center;
 }
 
-/* Version 1.1.0. 
+.about-clearfix{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+}
+
+.container1{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1190px;
+}
+
+.row1{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.pos-center{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.margint60{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  margin-top: 60px !important;
+}
+
+.index-hd{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+  font-family: 'Century-Gothic';
+  font-size: 30px;
+  line-height: 40px;
+  color: #a51d48;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+
+.marginb40{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  margin-bottom: 40px !important;
+}
+#myCarousel_Two{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.carousel-inner{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.col-sm-12{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: left;
+  width: 33.33333333%;
+}
+
+.block1{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: 'Open-sans-regular';
+  line-height: 25px;
+  box-sizing: border-box;
+  display: block;
+}
+
+#resize-logo-mobile{
+  max-height: 50px;
+}
+
+  /* Version 1.1.0. 
  * Theme credit ElaThemes.com */
 
