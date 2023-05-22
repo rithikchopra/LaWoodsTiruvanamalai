@@ -1323,7 +1323,7 @@ section {
     top: 3px;
   }
   .section-header p {
-    display: none;
+    /* display: none; */
   }
 }
 
