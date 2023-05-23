@@ -1982,7 +1982,7 @@ section {
   position: absolute;
   z-index: 9;
   font-size: initial;
-  padding: 20px 10px;
+  padding: 5px 10px;
   width: 100%;
   left: 0;
   bottom: 0;
@@ -2008,7 +2008,7 @@ section {
 
 @media (min-width: 992px) {
   .stretcher-wrapper .stretcher .stretcher-item figure {
-    padding: 20px 30px;
+    padding: 10px 30px;
   }
 }
 
