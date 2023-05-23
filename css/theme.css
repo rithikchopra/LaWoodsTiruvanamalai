@@ -1822,7 +1822,8 @@ section {
   z-index: 99;
 }
 
-.stretcher-wrapper .stretcher .stretcher-item:hover > a {
+/* .stretcher-wrapper .stretcher .stretcher-item:hover > a { */
+  .stretcher-wrapper .stretcher .stretcher-item > a {
   -moz-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0);
   -o-transform: translate3d(0, 0, 0);
@@ -1970,8 +1971,9 @@ section {
   display: block;
 }
 
-.stretcher-wrapper .stretcher .stretcher-item:hover .stretcher-logo {
-  opacity: 0;
+/* .stretcher-wrapper .stretcher .stretcher-item:hover .stretcher-logo { */
+.stretcher-wrapper .stretcher .stretcher-item .stretcher-logo {
+    opacity: 0;
 }
 
 .stretcher-wrapper .stretcher .stretcher-item figure {
@@ -2010,8 +2012,9 @@ section {
   }
 }
 
-.stretcher-wrapper .stretcher .stretcher-item:hover figure {
-  -moz-transform: translate3d(0, 0, 0);
+/* .stretcher-wrapper .stretcher .stretcher-item:hover figure { */
+.stretcher-wrapper .stretcher .stretcher-item figure {
+    -moz-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0);
   -o-transform: translate3d(0, 0, 0);
   -webkit-transform: translate3d(0, 0, 0);
@@ -2036,8 +2039,9 @@ section {
     overflow: hidden;
     padding: 50px 30px;
   }
-  .stretcher-wrapper.stretcher-wrapper-frontpage .stretcher .stretcher-item:hover figure {
-    -moz-transform: translate3d(0, 0, 0);
+  /* .stretcher-wrapper.stretcher-wrapper-frontpage .stretcher .stretcher-item:hover figure { */
+  .stretcher-wrapper.stretcher-wrapper-frontpage .stretcher .stretcher-item figure {
+      -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
     -webkit-transform: translate3d(0, 0, 0);
