@@ -737,6 +737,7 @@ nav.navigation-main .navigation-block ul li > ul li a {
     7. Owl Theme
     ----------------------------------
 */
+
 .owl-theme .owl-controls .owl-buttons .owl-next {
   right: -50px;
 }
@@ -884,9 +885,11 @@ nav.navigation-main .navigation-block ul li > ul li a {
 @media (min-width: 992px) {
   .owl-slider-header .owl-controls .owl-buttons .owl-next {
     right: 50px;
+    background: white;
   }
   .owl-slider-header .owl-controls .owl-buttons .owl-prev {
     left: 50px;
+    background: white;
   }
 }
 
@@ -5482,4 +5485,3 @@ footer .footer-social .copyright {
 
   /* Version 1.1.0. 
  * Theme credit ElaThemes.com */
-
