@@ -876,10 +876,12 @@ nav.navigation-main .navigation-block ul li > ul li a {
 
 .owl-slider-header .owl-controls .owl-buttons .owl-next {
   right: 10px;
+  background: white;
 }
 
 .owl-slider-header .owl-controls .owl-buttons .owl-prev {
   left: 10px;
+  background: white;
 }
 
 @media (min-width: 992px) {
